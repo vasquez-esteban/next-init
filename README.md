@@ -21,8 +21,6 @@ This template (Node 22) is a starting point for building applications with Next.
 
 This template is a starting point and does not include everything. Here are some things you might want to add:
 
-1. Shadcn-ui: A UI library for building beautiful interfaces.
-2. Base Layouts: Common layout components for your application.
-3. SEO layout: A layout component that includes SEO (Search Engine Optimization) best practices.
+Layouts: Common & SEO layout components for your application.
 
 Feel free to customize this template according to your project's needs.
